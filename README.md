@@ -1,5 +1,6 @@
 ## Hi there 👋
-🔭 I’m currently working on a to-do application using the MERN stack
+My name is Samuel
+- 🔭 I’m currently working on a to-do application using the MERN stack
 - 🌱 I’m currently learning Mongoose, React, Typescript, and Node js.
 - 🤔 I’m looking for help with my to-do application
 
