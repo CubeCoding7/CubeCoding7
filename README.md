@@ -1,4 +1,7 @@
 ## Hi there 👋
+🔭 I’m currently working on a to-do application using the MERN stack
+- 🌱 I’m currently learning Mongoose, React, Typescript, and Node js.
+- 🤔 I’m looking for help with my to-do application
 
 <!--
 **CubeCoding7/CubeCoding7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
